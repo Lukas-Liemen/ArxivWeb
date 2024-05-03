@@ -1,7 +1,7 @@
 # ArxivWeb: Visualizing Citation Networks
 
 ## Overview
-ArxivWeb is a small side project of mine that aims to create an interactive graph to visualize citation networks between research papers on arXiv. It aims to provide a straightforward way to explore the connections between papers and their references.
+ArxivWeb is a small side project of mine that creates an interactive graph to visualize citation networks between research papers on arXiv. It aims to provide a straightforward way to explore the connections between papers and their references.
 
 ## Setup
 - Install required libraries: requests, fitz, arxiv, concurrent.futures, and pyvis
